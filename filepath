@@ -1,0 +1,13 @@
+web-scraper-and-api/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── scraper.py
+│   └── templates/
+│       └── index.html
+│
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── Dockerfile
